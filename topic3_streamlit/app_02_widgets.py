@@ -11,3 +11,4 @@ if st.button('Submit'):
     st.success(f'Hello {name}! You are {age} years old. Level: {level}, Language: {choice}. Agreement: {agree}')
 
 st.caption('Run: streamlit run app_02_widgets.py')
+print("hello")
